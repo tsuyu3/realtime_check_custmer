@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/laravel,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=laravel,node
 
 ### Laravel ###
-=======
->>>>>>> c3825deae6aa89564dd6d5ead343f028195b2246
 /vendor/
 node_modules/
 npm-debug.log
@@ -29,7 +26,6 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
-<<<<<<< HEAD
 ### Node ###
 # Logs
 logs
@@ -169,11 +165,3 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/laravel,node
-=======
-/public/build
-/storage/pail
-.env.backup
-.env.production
-.phpactor.json
-auth.json
->>>>>>> c3825deae6aa89564dd6d5ead343f028195b2246
